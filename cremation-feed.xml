@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-04-13T12:00:00">
+  <shop>
+    <name>cremationmsk.com</name>
+    <company>Ритуальные услуги в Москве</company>
+    <url>https://cremationmsk.com</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Услуги</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <url>https://cremationmsk.com/uslugi-po-krematsii</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Услуги по кремации</name>
+        <description>Полный комплекс услуг по кремации в Москве: оформление, транспортировка, сопровождение. Работаем круглосуточно.</description>
+      </offer>
+      <offer id="2" available="true">
+        <url>https://cremationmsk.com/tseny-na-krematsiyu</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Цены на кремацию</name>
+        <description>Доступные цены на кремацию. Выберите подходящий пакет услуг. От 15 000 рублей.</description>
+      </offer>
+      <offer id="3" available="true">
+        <url>https://cremationmsk.com/zahoroneniye-urny</url>
+        <price>7000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Захоронение урны</name>
+        <description>Организация захоронения урны в землю или в колумбарий. Подбор участка и сопровождение.</description>
+      </offer>
+      <offer id="4" available="true">
+        <url>https://cremationmsk.com/yacheyka-v-kolumbarii</url>
+        <price>10000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Ячейка в колумбарии</name>
+        <description>Предоставление ячеек в московских колумбариях. Официальное оформление документов.</description>
+      </offer>
+      <offer id="5" available="true">
+        <url>https://cremationmsk.com/krematsiya-besplatno</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Кремация бесплатно</name>
+        <description>Помощь в получении бесплатной кремации по государственным и социальным программам.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
